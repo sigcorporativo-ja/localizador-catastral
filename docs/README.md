@@ -26,7 +26,7 @@ El plugin carga opcionalmente la capa WMS de Catastro, si así se le especifica 
 - css: catasro.min.css
 - / fonts
 
-El plugin recibe un {object}, que deberá tener como parámetros las distintas urls de servicio de Catastro que se necesitan:  
+El plugin recibe un {object}, que deberá tener como parámetro _config_ y dentro del mismo las distintas urls de servicio de Catastro que se necesitan:  
 
 Parámetro | Descripción 
 --- | --- |
