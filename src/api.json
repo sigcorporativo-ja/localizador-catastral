@@ -1,0 +1,6 @@
+{
+   "url": {
+      "name": "catastro"
+   },
+   "constructor": "M.plugin.Catastro"
+}
