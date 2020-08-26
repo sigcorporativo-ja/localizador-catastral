@@ -1,8 +1,10 @@
-# localizador-catastral ![icono](./images/icon.png)
+# localizador-catastral ![icono](./images/icon.png) - **DEPRECATED**  
 
 [![Build Tool](https://img.shields.io/badge/build-Closure-red.svg)](https://github.com/sigcorporativo-ja/Mapea4-dev)  
 
 ## Descripción
+:warning: Este plugin está **obsoleto**, para una funcionalidad similar: [ReferenceLocatorcatastro](https://github.com/sigcorporativo-ja/referencelocatorcatastro/tree/master) :warning:  
+
 Plugin para [Mapea](https://github.com/sigcorporativo-ja/Mapea4) desarrollado por la Consejería de Medioambiente y Ordenación del Territorio de la Junta de Andalucía. Crea un panel propio con un control de búsqueda catastral contra los [Servicios Web de Catastro](http://www.catastro.meh.es/esp/sede.asp) públicos, en dos modalidades:  
 * Búsqueda por referencia catastral o parámetros (municipio, provincia, polígono y parcela) ![Botones](./images/search.png) 
 * Búsqueda por click en posición ![Botones](./images/info.png) 
